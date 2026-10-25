@@ -2795,13 +2795,13 @@ Home page Details Section
 .im-product-action .baide_wish a.liked,
 .im-product-action .baide_compare a.liked,
 .im-product-action a:hover {
-  background: #ff250d;
+  background: #024ad9;
 }
 
 .primary-border-color,
 .im-bd-tab-navbar li a.active-tab,
 .im-bd-tab-navbar li:hover a {
-  border-color: #ff250d; 
+  border-color: #024ad9; 
 }
 
 .theme_ul, .theme_li {
@@ -3953,7 +3953,7 @@ Home page Details Section
   font-weight: 700;
   line-height: 36px;
   margin-right: 16px;
-  color: #ff250d;
+  color: #024ad9;
   letter-spacing: 0.5px;
 }
 
